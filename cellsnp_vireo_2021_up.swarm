@@ -1,0 +1,4 @@
+
+# swarm -f cellsnp_vireo_2021_up.swarm -g 240 -t 40 --time 48:00:00 --module cellsnp/0.1.7
+
+bash cellsnp_vireo_2021_up.sh NIHPlR3

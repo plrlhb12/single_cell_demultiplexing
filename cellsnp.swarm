@@ -1,0 +1,15 @@
+
+
+
+#swarm -f cellsnp_1.swarm -g 120 -t 48 --time 24:00:00 --module cellsnp/0.1.7.lua,vireosnp/0.3.2.lua --devel
+
+#!/bin/bash/
+
+cd /data/CARD/projects/iNDI/Pool1_hNGN2; bash cellsnp.sh
+cd /data/CARD/projects/iNDI/Pool2_hNGN2; bash cellsnp.sh
+cd /data/CARD/projects/iNDI/Pool1_forebrain; bash cellsnp.sh
+cd /data/CARD/projects/iNDI/Pool2_forebrain; bash cellsnp.sh
+cd /data/CARD/projects/iNDI/Combined1_forbrain; bash cellsnp.sh
+cd /data/CARD/projects/iNDI/Combined2_forbrain; bash cellsnp.sh
+
+

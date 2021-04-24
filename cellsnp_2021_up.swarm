@@ -1,0 +1,5 @@
+#!/bin/bash/
+
+#bash cellsnp_2021_up.sh NIHPlR1
+#bash cellsnp_2021_up.sh NIHPlR2
+bash cellsnp_2021_up.sh NIHPlR3
